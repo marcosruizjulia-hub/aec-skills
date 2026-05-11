@@ -1,0 +1,5 @@
+CC0 1.0 Universal dedication for the original skill text in this package.
+
+The package does not include the source EPUB or full source text. The source tradition was used as public-domain procedural inspiration and paraphrased into reusable diagnostic instructions.
+
+No warranty. This skill provides diagnostic heuristics and test-planning assistance only. It does not provide engineering, architectural, public-health, code, legal, fire-safety, structural, or potable-water approval.
