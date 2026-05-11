@@ -8,6 +8,10 @@ AI skills, templates and workflows for architecture, construction, BIM and indus
 
 - [Skill IdI UNE-PNE 41610](./skills/industrializacion/idi-pne-41610/)
 
+### Teoría y método arquitectónico
+
+- [Vitruvian Method Diagnostic Skill](skills/teoria-metodo/vitruvian-method-diagnostic/)
+
 ## What is this repository?
 
 This repository contains practical AI skills, templates and checklists for the AEC sector: architecture, construction, BIM, façades, sustainability and industrialized building analysis.
