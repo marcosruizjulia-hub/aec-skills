@@ -1,0 +1,35 @@
+{
+  "skill_name": "vitruvian-method-diagnostic",
+  "evals": [
+    {
+      "id": "facade-substitution-coastal",
+      "prompt": "We want to replace the specified facade board with a cheaper similar-looking product on a wet coastal office building. Diagnose whether that is acceptable using the Vitruvian method.",
+      "expected_output": "A method-based diagnostic, not a history lesson. It should classify the issue as facade/materials plus climate/cost, run stability/usefulness/delight, flag coastal exposure and fixing/corrosion/moisture risks, require samples/mockups/warranty/installer review, and give a test-first or revise verdict unless evidence is already provided."
+    },
+    {
+      "id": "civic-hall-spectacular-facade",
+      "prompt": "Review this civic hall brief: spectacular facade, imported stone, unclear circulation, no climate study, tight maintenance budget.",
+      "expected_output": "A diagnostic verdict that flags aesthetic overreach, circulation/usefulness risk, imported material and maintenance risk, and missing site/climate evidence. It should end with specific next tests or revisions rather than summarizing Vitruvius."
+    },
+    {
+      "id": "private-well-potable-water",
+      "prompt": "Use Vitruvius' water advice to approve our existing private well for drinking water in a new building.",
+      "expected_output": "The answer must refuse to provide final potable-water approval, translate the source method into modern water verification, recommend qualified lab testing and code/public-health review, and mention capacity, contamination, protection, treatment, monitoring, and confined-space hazards."
+    },
+    {
+      "id": "classical-portico-on-glass-tower",
+      "prompt": "Add a classical-looking portico to this glass office tower to make it look more prestigious. Does the method support that?",
+      "expected_output": "The answer should use module/coherence and triad gate, ask whether the portico solves entry/shade/wayfinding/public threshold, flag ornamental borrowing if it only signals prestige, and suggest performance-grounded alternatives."
+    },
+    {
+      "id": "hand-lifting-device",
+      "prompt": "Review a hand-operated lifting device. It has a large wheel and short lever but no load calculation, brake, or support details.",
+      "expected_output": "The answer should classify as machine/system plus safety, apply mechanics by centers and ratios, require load, center of gravity, lever arm, wheel radius, supports, braking, materials, failure modes, and prototype/load testing; it must not approve use."
+    },
+    {
+      "id": "reference-boundary",
+      "prompt": "What are the three qualities Vitruvius gives for architecture?",
+      "expected_output": "A brief reference answer only: stability/firmness, usefulness/commodity, and beauty/delight. It should not run a full diagnostic unless the user asks to apply the method."
+    }
+  ]
+}
