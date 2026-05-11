@@ -10,7 +10,7 @@ AI skills, templates and workflows for architecture, construction, BIM and indus
 
 ### Teoría y método arquitectónico
 
-- [Vitruvian Method Diagnostic Skill](skills/teoria-metodo/vitruvian-method-diagnostic/)
+- [Vitruvian Method Diagnostic Skill](./skills/teoria-metodo/vitruvian-method-diagnostic/)
 
 ## What is this repository?
 
