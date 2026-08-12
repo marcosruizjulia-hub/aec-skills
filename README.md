@@ -4,6 +4,10 @@ AI skills, templates and workflows for architecture, construction, BIM and indus
 
 ## Current skills
 
+### AEC compliance and sustainability
+
+- [Auditor RD Centros de Datos](./skills/aec/auditor-rd-centros-datos/)
+
 ### Industrialización de edificios
 
 - [Skill IdI UNE-PNE 41610](./skills/industrializacion/idi-pne-41610/)
