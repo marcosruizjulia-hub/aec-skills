@@ -4,7 +4,7 @@ AI skills, templates and workflows for architecture, construction, BIM and indus
 
 ## Current skills
 
-### AEC compliance and sustainability
+### Centros de Datos y sostenibilidad
 
 - [Auditor RD Centros de Datos](./skills/aec/auditor-rd-centros-datos/)
 
