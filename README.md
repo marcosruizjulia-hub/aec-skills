@@ -16,6 +16,10 @@ AI skills, templates and workflows for architecture, construction, BIM and indus
 
 - [Vitruvian Method Diagnostic Skill](./skills/teoria-metodo/vitruvian-method-diagnostic/)
 
+### Libros y referencias históricas
+
+- [One Thousand Ways to Make Money](./skills/books/one-thousand-ways-to-make-money/)
+
 ## What is this repository?
 
 This repository contains practical AI skills, templates and checklists for the AEC sector: architecture, construction, BIM, façades, sustainability and industrialized building analysis.
