@@ -1,0 +1,4 @@
+interface:
+  display_name: "Analyzing Character"
+  short_description: "Historical lookup for Analyzing Character"
+  default_prompt: "Use $analyzing-character to answer a historical question about Analyzing Character."

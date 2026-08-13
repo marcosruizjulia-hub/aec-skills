@@ -18,6 +18,7 @@ AI skills, templates and workflows for architecture, construction, BIM and indus
 
 ### Libros y referencias históricas
 
+- [Analyzing Character](./skills/books/analyzing-character/)
 - [One Thousand Ways to Make Money](./skills/books/one-thousand-ways-to-make-money/)
 
 ## What is this repository?
