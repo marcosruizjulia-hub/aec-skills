@@ -1,10 +1,4 @@
-﻿---
-name: one-thousand-ways-to-make-money-skill
-description: >
-  Skill generado desde "pg56006-images-3.epub" (tipo auto-detectado). Contiene índice de capítulos, tabla de búsqueda por palabra clave y contenido completo para consulta bajo demanda. Temas principales: which, there, money, cents, make, section.
----
-
-# One Thousand Ways to Make Money
+﻿# One Thousand Ways to Make Money
 
 ## Índice de capítulos
 

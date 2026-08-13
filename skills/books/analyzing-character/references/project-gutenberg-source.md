@@ -1,10 +1,4 @@
-﻿---
-name: analyzing-character-the-new-science-of-judging-men-misfits-i-skill
-description: >
-  Skill generado desde "pg12649-images-3.epub" (tipo auto-detectado). Contiene índice de capítulos, tabla de búsqueda por palabra clave y contenido completo para consulta bajo demanda. Temas principales: work, which, other, more, there, some.
----
-
-# Analyzing Character / The New Science of Judging Men; Misfits in Business, the Home and Social Life
+﻿# Analyzing Character / The New Science of Judging Men; Misfits in Business, the Home and Social Life
 
 ## Índice de capítulos
 
