@@ -15,6 +15,7 @@ AI skills, templates and workflows for architecture, construction, BIM and indus
 ### Teoría y método arquitectónico
 
 - [Vitruvian Method Diagnostic Skill](./skills/teoria-metodo/vitruvian-method-diagnostic/)
+- [Reflective Architect](./skills/teoria-metodo/reflective-architect/)
 
 ### Libros y referencias históricas
 
